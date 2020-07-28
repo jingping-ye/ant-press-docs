@@ -7,6 +7,12 @@
  - | 文档系统发布 | [578aa41](http://x/commits/578aa41)
 
 
+### 🐛 Bug 修复
+范围|描述|commitId
+--|--|--
+ - | 发布文档前缀 | [7f3c39e](http://x/commits/7f3c39e)
+
+
 范围|描述|commitId
 --|--|--
  - | Initial commit | [0a95698](http://x/commits/0a95698)
