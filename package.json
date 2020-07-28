@@ -6,10 +6,10 @@
   "author": "jingping.ye <jingping.ye@kingstarfintech.com>",
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build .",
+    "build": "vuepress build . --dest docs",
     "log": "conventional-changelog --config ./node_modules/vue-cli-plugin-commitlint/lib/log -i CHANGELOG.md -s -r 0",
     "commit": "npm run log && git add . && git cz",
-    "preview": "serve dest -S"
+    "preview": "serve docs -S"
   },
   "files": [],
   "dependencies": {

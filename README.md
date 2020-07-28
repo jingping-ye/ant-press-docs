@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: ant-press | 基于antdocs的文档系统
 tagline: 快速构建文档系统
 actionText: 快速上手 →
-actionLink: /html/
+actionLink: /文档模板使用指南
 features:
   - title: 简洁至上
     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
